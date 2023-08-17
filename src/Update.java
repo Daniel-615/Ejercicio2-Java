@@ -40,8 +40,4 @@ public class Update {
         }
         System.out.println("Operation done successfully");
     }
-    
-    public static void main(String args[]) {
-        displayAndUpdateData();
-    }
 }
